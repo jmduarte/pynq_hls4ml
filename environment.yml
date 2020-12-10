@@ -10,6 +10,7 @@ dependencies:
     - pandas
     - tensorflow
     - pynq==2.5.2
+    - jupyter
     - git+git://github.com/google/qkeras.git#egg=qkeras
     - git+git://github.com/jmduarte/hls4ml.git@pynq#egg=hls4ml[profiling]
 
