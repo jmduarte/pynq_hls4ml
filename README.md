@@ -1,3 +1,6 @@
+# Deprecation Notice: 
+Follow the hls4ml tutorial now instead, which includes pynq deployment https://github.com/fastmachinelearning/hls4ml-tutorial/blob/master/part7_deployment.ipynb
+
 # pynq_hls4ml
 
 ## Install and setup Vivado
